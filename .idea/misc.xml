@@ -6,10 +6,12 @@
         <entry key="app/src/main/res/drawable/next_button_icon.xml" value="0.10462962962962963" />
         <entry key="app/src/main/res/drawable/round_btn.xml" value="0.25794871794871793" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_play.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/footer_fragment.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
